@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- * Created: 11/29/2021 4:13:59 PM
- *  Author: Shaimaa K. El-Baklish
+ * Created: 20/11/2024 4:13:59 PM
+ *  Author: Saleh_Almallah
  */ 
 
 #include "ATmega32_Config.h"
